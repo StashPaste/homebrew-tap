@@ -1,6 +1,6 @@
 cask "light" do
-  version "1.2.2"
-  sha256 "b92242798cb0e4086f4f7218efa5c15f65922f0e6f96bd2d6ae3013389ce3fe5"
+  version "1.2.3"
+  sha256 "9d002195c7ad4d7b71496cb10e0b8d4ac668f6fba2dec7824738b90efc3ac776"
 
   url "https://updates.stashpaste.com/light/StashPasteLight-#{version}.dmg"
   name "StashPaste Light"
